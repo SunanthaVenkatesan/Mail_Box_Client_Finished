@@ -1,0 +1,22 @@
+.detail{
+   
+    margin: 1rem auto;
+    width: 95%;
+    max-width: 30rem;
+    border-radius: 6px;
+    /* border-color: rgb(95, 82, 182); */
+    border:rgb(206, 202, 235) solid 1px;
+    margin-top:3rem;
+     /* box-shadow: 2px 2px 1px rgb(95, 82, 182);  */
+    padding: 3rem; 
+    color:rgb(95, 82, 182);
+    background-color: rgb(206, 202, 235) ;
+}
+.div{
+    text-align: left;
+    margin-bottom: 1rem;
+    margin-right:1rem;
+    font-size: 23px;
+    color:purple;
+
+}

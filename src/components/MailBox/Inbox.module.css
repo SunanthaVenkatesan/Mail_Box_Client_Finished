@@ -1,0 +1,26 @@
+.inbox{
+    
+    font-family:'metal-mania';
+    color:rgb(95, 82, 182);
+    margin-top:1rem
+ 
+}
+.inbox ul{
+
+   font-size: large;
+}
+.inbox h2{
+    text-align: center;
+}
+.inbox li{
+    justify-content: space-between;
+    /* list-style: none; */
+    background-color:beige;
+    padding: 1rem;
+    
+}
+.inbox button{
+    float:right;
+   margin-right: 2rem;
+}
+

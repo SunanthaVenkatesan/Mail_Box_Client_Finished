@@ -1,0 +1,28 @@
+.button {
+  cursor: pointer;
+  font: inherit;
+  color: white;
+  background-color: rgb(95, 82, 182);
+  border: 1px solid #777;
+  border-radius: 4px;
+  padding: 0.5rem 1.5rem;
+  float: right;
+}
+.h2 {
+  margin-top: 2rem;
+  color: rgb(61, 59, 59);
+}
+.mail {
+  margin: 0.25rem;
+  max-width: 100px;
+  margin-top: 10rem;
+  
+
+
+}
+.vl{
+  
+    border-right: 1rem #777;
+    
+}
+
